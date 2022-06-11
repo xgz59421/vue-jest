@@ -1,5 +1,5 @@
 ## vue jest
-[![codecov](https://codecov.io/gh/xgz59421/notes-web/branch/main/graph/badge.svg?token=BZ706ITAAG)](https://codecov.io/gh/xgz59421/notes-web)
+[![codecov](https://codecov.io/gh/xgz59421/vue-jest/branch/main/graph/badge.svg?token=V1H5UZBT55)](https://codecov.io/gh/xgz59421/vue-jest)
 
 #### test:unit
 npm run test:unit
@@ -40,7 +40,12 @@ README.md 中可以展示 codecov 徽章
 项目根目录新建目录和文件 .github/workflows/main.yml：
 最后，将所有修改提交到远程仓库的 master 分支上，就可以看到 GitHub Actions 正在自动构建
 
-
+ git代码变更提交后, https://github.com/xgz59421/vue-jest/actions中查看构建过程
 展示 GitHub Actions 徽章
 
+
 ```
+
+
+https://app.codecov.io/gh/xgz59421/vue-jest/new
+token: 4c3746f4-ca56-4449-a6cd-5765bf4ce0f8
