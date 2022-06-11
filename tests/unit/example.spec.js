@@ -35,7 +35,7 @@ test('HelloWorld.vue', async () => {
 
   // vm vue实例 也就是代码中的 this
   expect(wrapper.vm.count).toBe(1)
-  // 页面中的count元素 
+  // 页面中的count元素
   // 等待 渲染后1 才显示1
   expect(countText.text()).toBe('1')
 
@@ -51,7 +51,6 @@ test('HelloWorld.vue', async () => {
   // console.log(wrapper.html())
   // expect(wrapper.html()).toContain('Hello World')
 })
-
 
 // describe('HelloWorld.vue', () => {
 //   it('renders props.msg when passed', () => {
