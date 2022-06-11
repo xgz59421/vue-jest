@@ -1,5 +1,5 @@
 ## vue jest
-[![codecov](https://codecov.io/gh/xgz59421/vue-jest/branch/main/graph/badge.svg?token=V1H5UZBT55)](https://codecov.io/gh/xgz59421/vue-jest)
+[![codecov](https://codecov.io/gh/xgz59421/vue-jest/branch/main/graph/badge.svg?token=ZH46IKP2Q0)](https://codecov.io/gh/xgz59421/vue-jest)
 
 #### test:unit
 npm run test:unit
@@ -16,11 +16,11 @@ npm run coverage
 进入到 https://app.codecov.io/gh
 https://app.codecov.io/gh/xgz59421/notes-web/new
 复制 Codecov Token=
-96aa8439-fa2b-46ed-a9c2-3ce103552536
+7f532ae1-9451-42b3-9064-833ae8c5bbcf
 
 3. 运行项目安装的 codecov 上传报告
-npx codecov --token=96aa8439-fa2b-46ed-a9c2-3ce103552536
-codecov --token=96aa8439-fa2b-46ed-a9c2-3ce103552536
+npx codecov --token=7f532ae1-9451-42b3-9064-833ae8c5bbcf
+codecov --token=7f532ae1-9451-42b3-9064-833ae8c5bbcf
 4. 重新查看 Codecov 可以看到报告分析
 https://app.codecov.io/analytics/gh/xgz59421 -->Analytics
 
